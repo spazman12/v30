@@ -1,0 +1,9 @@
+# Core dependencies (required)
+requests>=2.25.0
+Pillow>=8.0.0
+
+# Steam-related dependencies (installed successfully)
+steam>=1.4.0
+eventemitter>=0.2.0
+gevent>=21.0.0
+protobuf==3.20.3
